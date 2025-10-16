@@ -5,8 +5,9 @@ Wir möchten ein Produkt herstellen mit dem Namen Tiptoi. "Tiptoi ist ein intera
 
 Scope:
 
-Alle Anwendungen im "Ökosystem" TipToi des Herstellers
-Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
+- Alle Anwendungen im "Ökosystem" TipToi des Herstellers
+- Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. Optional: Weitere Anwendungen.
+
 Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
 
 Quellen zu TipToi
