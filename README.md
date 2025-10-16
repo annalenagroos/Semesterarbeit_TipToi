@@ -10,6 +10,7 @@ Zwei Anwendungen (falls es Mehrere hat) mittels Use-Case-Diagramm beschreiben. O
 Optional: Haben Sie in Ihrem Umfeld ein TipToi? Dann probieren sie das Produkt aus.
 
 Quellen zu TipToi
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wikipedia: https://de.wikipedia.org/wiki/Tiptoi
 Offizielle Seite von Ravensburger: https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html
 Serivce TipToi: https://service.ravensburger.de/tiptoi%C2%AE
